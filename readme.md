@@ -1,5 +1,5 @@
 # GoAnime Helper
 
-![GoAnimeHelper](Assets/GoAnimeHelper.png)
+![GoAnime Helper](assets/GoAnimeHelper.png)
 ![Home](assets/Home.png)
 ![HomeBlack](assets/HomeBlack.png)
