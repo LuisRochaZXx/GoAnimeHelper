@@ -4,4 +4,4 @@
 
 ![Tela inicial clara](Assents/HomeW.png)
 
-![Tela inicial escura](Assents/HomeBlack.png)
+![Tela inicial escura](Assents/Home.png)
